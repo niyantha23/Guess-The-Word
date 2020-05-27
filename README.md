@@ -1,4 +1,4 @@
-ViewModel and ViewModelFactory 
+
 ==================================
 Introduction
 ------------
